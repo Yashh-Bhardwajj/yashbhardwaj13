@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yashbhardwaj13
 - 👀 I’m interested in Android Devlopment Web Devlopmment 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me --> Mail : yashsharma123rrr@gmail.com@gmail.com
+- 📫 How to reach me --> Mail : yashsharma123rrr@gmail.com
